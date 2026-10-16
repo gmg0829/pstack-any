@@ -1,0 +1,29 @@
+{
+  "name": "pstack-any",
+  "version": "0.1.0",
+  "description": "Harness-agnostic pstack skills: rigorous agent playbooks for any coding agent",
+  "license": "MIT",
+  "keywords": [
+    "pstack",
+    "poteto-mode",
+    "agent-skills",
+    "skills",
+    "claude-code",
+    "codex",
+    "cursor",
+    "grok"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gmg0829/pstack-any.git"
+  },
+  "files": [
+    "skills/**",
+    "docs/**",
+    "config/**",
+    "LICENSE",
+    "README.md",
+    "ATTRIBUTION.md",
+    "UPSTREAM.md"
+  ]
+}
